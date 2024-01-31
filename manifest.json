@@ -1,0 +1,15 @@
+{
+  "name": "timer",
+  "short_name": "timer",
+  "start_url": "https://akasofuanimal.github.io/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "timer app.",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "48x480",
+      "type": "image/png"
+    },
+  ],
+}
