@@ -13,7 +13,7 @@
     start.style.fontSize = "60px"
     var pause = document.getElementById('pause');
     pause.style.fontSize = "60px"
-    const music = new Audio('piron.mp3');
+    const music = new Audio('piron_trimmer.mp3');
 
     // スタートタイムを押した時の時間を入れる変数
     var startTime;
